@@ -19,10 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Loglo.studio is home for the professional and personal creative projects of Lucas Henderson.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-lucas:
-  name: Lucas J.H.
-#  twitter: megamantwitter
-#  picture: /assets/images/megaman.png
+#twitter_username: lhx1138
 github_username: Lucasjh
 
 # Build settings
