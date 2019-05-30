@@ -4,15 +4,15 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
+<h3>Active Websites:</h3>
+
+<a href="http://primeform.band/" target="-blank">PRIMEFORM</a>
+
+This is my latest custom build for my band called 'Primeform'. I am quite proud of this site as it was all custom coded HTML5 and CSS, save for the cool nebula-generating easter egg (click anywhere on the black background to see this). Due to it's sheer simplicity, it is by far the fastest site I have live right now. This site took much longer to build than any CMS framework like wordpress, but I think the benefits are well worth the effort. The logo is my own design as well.
+
 <a href="http://demo1.loglo.studio" target="_blank">Restaurant Demo</a>
 
 This is a demo site for a restaurant that doesn't exist. I launched it with X-Theme in Wordpress CMS (Click <a href="https://theme.co/x/demos/" target="_blank">here</a> to check out other possible configurations for this theme). If you are interested in having your website updated or rebuilt to look similar to this one, feel free to get in touch with me.
-
-
-
-
-<h3>Active Websites:</h3>
-
 
 <a href="https://lorensguitars.com/" target="_blank">Loren's Guitars</a>
 
