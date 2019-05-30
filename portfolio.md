@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 <h3>Active Websites:</h3>
 
-<a href="http://primeform.band/" target="-blank">PRIMEFORM</a>
+<a href="http://primeform.band/" target="_blank">PRIMEFORM</a>
 
 This is my latest custom build for my band called 'Primeform'. I am quite proud of this site as it was all custom coded HTML5 and CSS, save for the cool nebula-generating easter egg (click anywhere on the black background to see this). Due to it's sheer simplicity, it is by far the fastest site I have live right now. This site took much longer to build than any CMS framework like wordpress, but I think the benefits are well worth the effort. The logo is my own design as well.
 
